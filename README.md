@@ -1,4 +1,4 @@
-# errors [![Travis-CI](https://travis-ci.org/pkg/errors.svg)](https://travis-ci.org/pkg/errors) [![AppVeyor](https://ci.appveyor.com/api/projects/status/b98mptawhudj53ep/branch/master?svg=true)](https://ci.appveyor.com/project/davecheney/errors/branch/master) [![GoDoc](https://godoc.org/github.com/angelokurtis/errors?status.svg)](http://godoc.org/github.com/angelokurtis/errors) [![Report card](https://goreportcard.com/badge/github.com/angelokurtis/errors)](https://goreportcard.com/report/github.com/angelokurtis/errors) [![Sourcegraph](https://sourcegraph.com/github.com/angelokurtis/errors/-/badge.svg)](https://sourcegraph.com/github.com/angelokurtis/errors?badge)
+# errors [![GoDoc](https://godoc.org/github.com/angelokurtis/errors?status.svg)](http://godoc.org/github.com/angelokurtis/errors) [![Report card](https://goreportcard.com/badge/github.com/angelokurtis/errors)](https://goreportcard.com/report/github.com/angelokurtis/errors) [![Sourcegraph](https://sourcegraph.com/github.com/angelokurtis/errors/-/badge.svg)](https://sourcegraph.com/github.com/angelokurtis/errors?badge)
 
 Package errors provides simple error handling primitives.
 
